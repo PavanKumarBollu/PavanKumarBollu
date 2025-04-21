@@ -31,7 +31,7 @@ Databases: MySQL, PostgreSQL, MongoDB
 
 Tools: Git, GitHub, Maven, Jenkins
 
-Others: SLF4J, Log4j, Agile Methodology
+Others: SLF4J, Log4j, Agile Methodologies
 
 🌐 Let’s Connect!
 🔗 https://www.linkedin.com/in/pavankumar0211
