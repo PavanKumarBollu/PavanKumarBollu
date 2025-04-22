@@ -6,32 +6,25 @@
 - 📫 How to reach me call 9581950211 or mail bollupavankumar12@gmail.com
 - 😄 Pronouns: Pavan  
 
-I am a passionate Java Developer with 2 years of professional experience in building scalable and efficient backend applications.
+👋 About Me
+I’m Pavan Kumar, a passionate Java Full Stack Developer with 2 years of professional experience building scalable, secure, and high-performance web applications.
 
-I specialize in Core Java, Spring Boot, Spring MVC, Spring Data JPA, and Hibernate, with hands-on experience in developing RESTful APIs and microservices architecture. I enjoy solving complex problems, writing clean and maintainable code, and continuously learning new technologies.
+I specialize in Java, Spring Boot, RESTful APIs, and Microservices, with a strong foundation in backend development and practical knowledge of frontend technologies like ReactJS, HTML, CSS, and JavaScript.
 
-Over the last couple of years, I’ve built and contributed to several projects, including:
+My projects focus on solving real-world problems with clean architecture, efficient design, and robust security practices. I'm a strong believer in continuous learning and collaboration, and I enjoy contributing to meaningful, well-structured codebases.
 
-🧩 **CRM – Customer Relationship Manager** using Spring Boot, Thymeleaf, and Spring Data JPA
+💻 Tech Stack
+Languages: Java, JavaScript, SQL
 
-🎓 **Student Management System** with JSP, Servlets, JDBC, and HikariCP
+Frameworks: Spring Boot, Spring MVC, Spring Security, JPA, Hibernate
 
-👥 **Employee Management System** leveraging Spring MVC and Java
-
-🏦 **Bank Application** with a responsive frontend using HTML, CSS, and JavaScript
-
-I’m always eager to explore new challenges and collaborate on exciting projects. Let's connect and build something impactful together!
-
-**🛠️ Tech Stack**
-Languages: Java, SQL, JavaScript
-
-Frameworks & Libraries: Spring Boot, Spring MVC, Spring Data JPA, Hibernate, JDBC, JSP, Servlets, Thymeleaf
+Frontend: ReactJS, HTML, CSS, Thymeleaf
 
 Databases: MySQL, PostgreSQL, MongoDB
 
-Tools: Git, GitHub, Maven, Jenkins
+Tools: Git, Maven, Postman, STS
 
-Others: SLF4J, Log4j, Agile Methodologies
+Practices: Agile (Scrum), REST APIs, Microservices, JWT, OAuth2
 
 🌐 Let’s Connect!
 🔗 https://www.linkedin.com/in/pavankumar0211
