@@ -29,5 +29,6 @@ I regularly work on personal and open-source projects to sharpen my skills. Feel
 
 Let’s connect and build something impactful together!
 🌐 Let’s Connect!
+
 🔗 https://www.linkedin.com/in/pavankumar0211
 
