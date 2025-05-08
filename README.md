@@ -6,6 +6,9 @@
 - 📫 How to reach me call 9581950211 or mail bollupavankumar12@gmail.com
 - 😄 Pronouns: Pavan  
 
+
+
+
 I'm Pavan Kumar, a passionate and results-oriented Java Full Stack Developer with 2 years of hands-on experience in building scalable, secure, and high-performance web applications. I specialize in Java, Spring Boot, RESTful APIs, and Microservices, with additional skills in frontend development using ReactJS, HTML, CSS, JavaScript, & Thymeleaf.
 
 Over the past 2 years, I’ve been part of Agile teams working on enterprise-grade applications like Learning Management Systems (LMS) and Customer Relationship Management (CRM) tools. My responsibilities have included designing backend architecture, developing REST APIs, integrating databases, implementing security protocols like JWT/OAuth2, and delivering responsive UI features.
