@@ -3,8 +3,8 @@
 - 👀 I’m interested in Java full stack development
 - 🌱 I’m currently Working with Java full Stack technologies
 - 💞️ I’m looking to collaborate on Java projects
-- 📫 How to reach me call 9581950211 or mail bollupavankumar12@gmail.com
-- 😄 Pronouns: Pavan  
+- 📫 How to reach me call 9581950211 or mail bollupavankumar12@gmail.com .
+- 😄 Pronouns: Pavan
 
 
 
